@@ -1,5 +1,5 @@
 # Microservices
-Microservice project that uses Song and Profile microservices to perform several functions. This is written in Java and uses Neo4j and MongoDB databases.
+Lots of microservices put together that complete a system capable of liking/unliking songs, adding/deleting friends, viewing other playlists as well as maintaining your own. Uses neo4j and MongoDB and written in Java.
 
 These features are split between the two microservices. Each profile only maintains a single playlist of their liked songs. 
 
